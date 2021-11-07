@@ -11,6 +11,11 @@ h1 {
     color: #80ff00de;
 }
 
+div#links {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
 div#about {
     width: 80%;
     margin-left: 10%;
@@ -56,10 +61,6 @@ div.javascript {
 h3 {
     text-align: center;
     color: #80ff00de;
-}
-
-div#links {
-    text-align: center;
 }
 
 button {
