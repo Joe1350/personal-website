@@ -1,5 +1,3 @@
 const button = document.querySelector('.example')
 
-button.addEventListener('click', function() {
-    alert('I was clicked!')
-})
+button.addEventListener('click', () => alert('I was clicked!'))
